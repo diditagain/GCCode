@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14706e8e272d0ec40a9eca0db7500aa4, type: 3}
+  m_Name: Grave3_QuestComplete
+  m_EditorClassIdentifier: 
+  Text: 'Well I suppose restoring my grave is rather kind of you. With all this boredom
+    I had gone and forgotten my own name.
+
+    I guess we can be friends again ya
+    mangy feline!
+
+'
+  VoiceNarration: {fileID: 8300000, guid: 8880251840f34194d9783c433a53a24e, type: 3}

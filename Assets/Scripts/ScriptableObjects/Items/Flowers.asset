@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c74bc52855ed24468e5c690f74288cd, type: 3}
+  m_Name: Flowers
+  m_EditorClassIdentifier: 
+  Id: 2
+  Name: Flowers
+  Description: A vase containing pink flowers. Typically placed on a grave as a sign
+    of remembrance
+  ItemSprite: {fileID: 21300000, guid: 429913dca88f01b42940fa67d02c8683, type: 3}

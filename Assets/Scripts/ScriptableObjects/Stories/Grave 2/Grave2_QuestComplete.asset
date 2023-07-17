@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14706e8e272d0ec40a9eca0db7500aa4, type: 3}
+  m_Name: Grave2_QuestComplete
+  m_EditorClassIdentifier: 
+  Text: "Thank you little one. \r\nYou have proven today that someone will still
+    remember me.\r\nI feel like I can see her now\u2026 \r\nThough just out of reach.\r\n"
+  VoiceNarration: {fileID: 8300000, guid: af16407cff7881848ab9fa33dc4800d9, type: 3}
